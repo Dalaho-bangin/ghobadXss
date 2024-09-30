@@ -19,7 +19,7 @@ $ ./ghobadxss
   -m MODE           Environment mode: L (linux) or W (windows). (default: Windows)
   ```
 
-## example
+## Example
 For test reflected Xss on a set of urls in linux with 20 threads can use this command
 ```
 $ ./ghobadxss -o output_file.ext -t 20 -i urls_to_test -m L
