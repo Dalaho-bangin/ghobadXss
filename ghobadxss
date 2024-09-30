@@ -1,3 +1,5 @@
+#!/bin/usr/python
+
 import argparse
 from core.colors import green,end,back,red
 import argparse
